@@ -35,3 +35,4 @@ This project demonstrates a Security Information and Event Management (SIEM) and
 
 ## License
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details."# SIEM-SOC-Project" 
+"# SIEM-SOC-Project" 
