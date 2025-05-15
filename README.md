@@ -34,4 +34,4 @@ This project demonstrates a Security Information and Event Management (SIEM) and
 4. Examine scripts in the `scripts/` folder for automation examples.
 
 ## License
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License - see [LICENSE](LICENSE) for details."# SIEM-SOC-Project" 
