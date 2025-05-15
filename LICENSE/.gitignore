@@ -1,0 +1,18 @@
+# Ignore large VM files
+*.ova
+*.vmdk
+*.vmx
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore sensitive configs
+*.conf
+*.key
+*.pem
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
