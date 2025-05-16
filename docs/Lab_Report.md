@@ -105,14 +105,12 @@ The lab environment consisted of the following virtual machines:
   - Windows Client: 192.168.10.20 (Static, VMnet10)
   - Attacker: 192.168.10.30 (Static, VMnet10)
 
-![VM Configuration](screenshots/vmware_vm_config.png)
 
 ### 4.2 Network Configuration
 - All VMs were connected to the VMnet10 network (192.168.10.0/24).
 - Ubuntu Server had an additional NAT interface (192.168.75.128) for internet access.
 - Connectivity was verified by ensuring all machines could communicate within VMnet10 and access the internet via the NAT interface.
 
-![Network Setup](screenshots/network_setup.png)
 
 ### 4.3 Vulnerable Application Installation
 - **Kali Client (192.168.10.10)**:
