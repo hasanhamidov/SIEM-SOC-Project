@@ -59,7 +59,6 @@ The lab environment consisted of the following virtual machines:
 - Ubuntu Server had an additional NAT interface (192.168.75.128, DHCP) for internet access.
 - Traffic Routing: The monitoring server (Ubuntu Server at 192.168.10.1) was used to monitor traffic from target machines.
 
-![Network Diagram](docs/Network_Diagram.png)
 
 ### Monitoring Server
 - **Chosen Tools**:
