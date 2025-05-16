@@ -20,7 +20,7 @@ This project demonstrates a Security Information and Event Management (SIEM) and
 ## Screenshots
 | Wazuh Alerts | Splunk Logs |
 |--------------|-------------|
-| ![Wazuh SSH Alert](screenshots/wazuh_dashboard_ssh_kali.png) | ![Splunk SSH Log](screenshots/splunk_logs_ssh_kali.png) |
+| ![Wazuh SSH Alert](docs/screenshots/wazuh_dashboard_ssh_kali.png) | ![Splunk SSH Log](docs/screenshots/splunk_logs_ssh_kali.png) |
 
 ## Project Structure
 - `docs/`: Detailed lab report (`Lab_Report.md`) and setup guide (`Setup_Guide.md`).
