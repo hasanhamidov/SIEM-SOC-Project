@@ -105,7 +105,8 @@ The lab environment consisted of the following virtual machines:
   - Windows Client: 192.168.10.20 (Static, VMnet10)
   - Attacker: 192.168.10.30 (Static, VMnet10)
 
-![VM Configuration]( screenshots/vmware_vm_config.png )
+![VM Configuration](SIEM-SOC-Project/screenshots
+/vmware_vm_config.png)
 
 ### 4.2 Network Configuration
 - All VMs were connected to the VMnet10 network (192.168.10.0/24).
